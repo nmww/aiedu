@@ -84,6 +84,9 @@ nav:
       - QuickEmbed 向量化服务: works/quickembed.md
       - AI Town 小镇: works/ai-town.md
       - 画中学 · 手绘白板: works/huaxuezhong.md
+      - 开源项目（Gitee）: works/gitee.md
+  - 技能作品: skills.md
+  - 资质认证: certificates.md
   - 技术栈: stack.md
   - 更新记录: changelog.md
 
@@ -93,6 +96,12 @@ extra:
     - icon: fontawesome/brands/github
       link: https://github.com/nmww
       name: GitHub @nmww
+    - icon: fontawesome/brands/git-alt
+      link: https://gitee.com/markets2022
+      name: Gitee @markets2022
     - icon: fontawesome/solid/cube
       link: https://modelscope.cn/organization/modeai
       name: 魔搭社区 @modeai
+    - icon: fontawesome/solid/puzzle-piece
+      link: https://skillhub.cn/
+      name: SkillHub 技能作品

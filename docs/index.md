@@ -7,16 +7,18 @@
 <span>教育产品设计</span>
 <span>K12 课程研发</span>
 <span>全栈开发</span>
-<span>云端部署运维</span>
+<span>移动端与鸿蒙</span>
+<span>云服务运维</span>
 <span>创客与硬件</span>
 </div>
 </div>
 
 <div class="ad-stats">
 <div class="ad-stat"><span class="ad-stat__num">10</span><span class="ad-stat__label">在线可用 AI 应用</span></div>
-<div class="ad-stat"><span class="ad-stat__num">100+</span><span class="ad-stat__label">GitHub 公开仓库</span></div>
-<div class="ad-stat"><span class="ad-stat__num">4×16</span><span class="ad-stat__label">单元 × 课时课程体系</span></div>
-<div class="ad-stat"><span class="ad-stat__num">2026</span><span class="ad-stat__label">持续迭代中</span></div>
+<div class="ad-stat"><span class="ad-stat__num">20</span><span class="ad-stat__label">已发布 SkillHub 技能</span></div>
+<div class="ad-stat"><span class="ad-stat__num">11</span><span class="ad-stat__label">技术认证</span></div>
+<div class="ad-stat"><span class="ad-stat__num">100+</span><span class="ad-stat__label">开源仓库（GitHub / Gitee）</span></div>
+<div class="ad-stat"><span class="ad-stat__num">10+</span><span class="ad-stat__label">年开发经验</span></div>
 </div>
 
 ## 精选作品 {: .ad-section }
@@ -94,6 +96,42 @@
     `WebGL` `实时数据` `AI 语音`
 
     [访问站点](https://modeai-godseye-secrets.ms.show)
+
+</div>
+
+## 技能与认证 {: .ad-section }
+
+<div class="grid cards" markdown>
+
+-   **SkillHub 技能作品 · 20 个已发布**
+
+    ---
+
+    把日常重复出现的工作流固化成可复用的 AI 技能包，发布在 SkillHub 上开放共享。覆盖 AI 智能体、办公效率、设计媒体、开发编程、运维安全等 8 个方向，累计下载 **1.2 万次以上**。
+
+    `AI 智能体` `办公效率` `设计媒体` `开发编程`
+
+    [查看技能清单](skills.md) · [SkillHub 平台](https://skillhub.cn/)
+
+-   **技术认证 · 11 项**
+
+    ---
+
+    阿里云 Apsara Clouder 专项技能认证 4 项（弹性计算 / 云数据库 / 云存储 / 云原生容器）、大模型进阶训练营五阶段结营证书 + ACS 算力训练营证书，以及鸿蒙应用开发工程师认证。
+
+    `阿里云` `大模型` `鸿蒙`
+
+    [查看资质认证](certificates.md)
+
+-   **开源仓库 · GitHub + Gitee**
+
+    ---
+
+    GitHub [@nmww](https://github.com/nmww) 与 Gitee [@markets2022](https://gitee.com/markets2022) 双账号维护，覆盖 AI 应用、教育工具、硬件实验与自研技能包。
+
+    `TypeScript` `Python` `Java`
+
+    [查看开源项目](works/gitee.md)
 
 </div>
 

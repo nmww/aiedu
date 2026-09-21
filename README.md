@@ -34,20 +34,24 @@ mkdocs build          # 输出到 site/
 └── docs/
     ├── index.md          # 首页
     ├── about.md          # 关于我
-    ├── capabilities.md   # 能力清单
+    ├── capabilities.md   # 能力清单（七大方向）
+    ├── skills.md         # 技能作品（SkillHub）
+    ├── certificates.md   # 资质认证
     ├── stack.md          # 技术栈
     ├── changelog.md      # 更新记录
     ├── stylesheets/
     │   └── extra.css     # 自定义样式
     ├── assets/
-    │   └── covers/       # 项目封面图
+    │   ├── covers/       # 项目封面图
+    │   └── certs/        # 证书扫描件（900px JPEG）
     └── works/
         ├── index.md      # 作品总览
         ├── quickclass.md
         ├── quickform.md
         ├── quickembed.md
         ├── ai-town.md
-        └── huaxuezhong.md
+        ├── huaxuezhong.md
+        └── gitee.md      # 开源项目（Gitee）
 ```
 
 ## 怎么新增一个项目

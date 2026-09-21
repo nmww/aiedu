@@ -16,6 +16,8 @@
 
 这两件事需要的能力是拧着的：一个要求工程严谨，一个要求表达直觉。我的价值就在这个交叉点上。
 
+**工程底子来自多年开发。** Java 后端、Android 与鸿蒙移动端都做过，后来重心转到云上——阿里云的 ECS / RDS / Redis / OSS / 容器，腾讯云的 Lighthouse / CloudBase，华为云的服务器与数据库，日常都是自己配、自己运维。这些积累现在全部用在教育场景里：产品要上线，我自己部署；线上出问题，我自己排障。
+
 ---
 
 ## 我在做什么
@@ -69,19 +71,26 @@
 | 领域 | 常用工具与平台 |
 | --- | --- |
 | 前端 | Next.js · React · TypeScript · Tailwind CSS · TDesign |
-| 后端 | Node.js · Python · Flask · Prisma ORM · SQLite |
+| 后端 | Node.js · Python · Flask · Java · Prisma ORM · SQLite |
+| 移动端 | Android · HarmonyOS（ArkTS / ArkUI）· 微信小程序 |
 | AI | 通义千问（百炼）· DeepSeek · Ollama 本地模型 · RAG 向量检索 · TTS |
-| 部署 | 魔搭创空间（Docker / Static / Gradio）· 腾讯云 Lighthouse · CloudBase · Read the Docs · GitHub Pages |
+| 云服务 | 阿里云（ECS · RDS · Redis · OSS · 容器服务）· 腾讯云（Lighthouse · CloudBase）· 华为云 |
+| 部署 | 魔搭创空间（Docker / Static / Gradio）· 腾讯云 Lighthouse · CloudBase · Read the Docs · GitHub / Gitee Pages |
 | 硬件 | ESP32-S3 · MicroPython · MCP 协议 · SmartPi |
 
-完整清单见 [技术栈](stack.md)。
+完整清单见 [技术栈](stack.md)，已取得的认证见 [资质认证](certificates.md)。
 
 ---
 
 ## 联系
 
-- **GitHub** — [@nmww](https://github.com/nmww)：112 个公开仓库，2014 年注册
-- **魔搭社区** — [@modeai](https://modelscope.cn/organization/modeai)：上述在线应用的部署空间
-- **邮箱** — [nanxinz@126.com](mailto:nanxinz@126.com)
+| 渠道 | 地址 |
+| --- | --- |
+| **邮箱** | [macnote@qq.com](mailto:macnote@qq.com) |
+| **微信** | `JiaoyuGm` |
+| **GitHub** | [@nmww](https://github.com/nmww) |
+| **Gitee** | [@markets2022](https://gitee.com/markets2022) |
+| **魔搭社区** | [@modeai](https://modelscope.cn/organization/modeai) |
+| **技能作品** | [SkillHub](https://skillhub.cn/)（20 个已发布技能） |
 
 欢迎交流教育场景的 AI 落地、课程设计或技术实现。项目上有想讨论的方案，也随时可以找我。
