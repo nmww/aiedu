@@ -8,7 +8,7 @@
 <div class="ad-stat"><span class="ad-stat__num">20</span><span class="ad-stat__label">已发布技能</span></div>
 <div class="ad-stat"><span class="ad-stat__num">8</span><span class="ad-stat__label">覆盖分类</span></div>
 <div class="ad-stat"><span class="ad-stat__num">1.2万+</span><span class="ad-stat__label">累计下载</span></div>
-<div class="ad-stat"><span class="ad-stat__num">93</span><span class="ad-stat__label">累计安装</span></div>
+<div class="ad-stat"><span class="ad-stat__num">107</span><span class="ad-stat__label">累计安装</span></div>
 </div>
 
 !!! tip "关于 Skill"
@@ -92,5 +92,5 @@
 ---
 
 <p class="ad-tip">
-技能数据来自 <a href="https://skillhub.cn/" target="_blank" rel="noopener">SkillHub</a> 平台，随发布持续更新。想直接看我的作品清单，可以到 <a href="https://skillhub.cn/" target="_blank" rel="noopener">skillhub.cn</a> 搜索上述技能名。
+技能数据来自 <a href="https://skillhub.cn/" target="_blank" rel="noopener">SkillHub</a> 平台，统计于 2026-09-21，随发布持续更新。完整列表见 <a href="https://skillhub.cn/user/user_a5827f21" target="_blank" rel="noopener">我的 SkillHub 主页</a>。
 </p>

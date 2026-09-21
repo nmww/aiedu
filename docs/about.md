@@ -91,6 +91,6 @@
 | **GitHub** | [@nmww](https://github.com/nmww) |
 | **Gitee** | [@markets2022](https://gitee.com/markets2022) |
 | **魔搭社区** | [@modeai](https://modelscope.cn/organization/modeai) |
-| **技能作品** | [SkillHub](https://skillhub.cn/)（20 个已发布技能） |
+| **技能作品** | [SkillHub](https://skillhub.cn/user/user_a5827f21)（20 个已发布技能，6 个公开分类方向） |
 
 欢迎交流教育场景的 AI 落地、课程设计或技术实现。项目上有想讨论的方案，也随时可以找我。

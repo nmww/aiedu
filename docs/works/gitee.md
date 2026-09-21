@@ -67,6 +67,6 @@
 
 ---
 
-<p class="ad-tip">
-GitHub 侧的项目请看 <a href="https://github.com/nmww" target="_blank" rel="noopener">@nmww</a>；已上线的产品在 <a href="./">作品集</a>，自研技能包在 <a href="../skills/">技能作品</a>。
+<p class="ad-tip" markdown>
+GitHub 侧的项目请看 [@nmww](https://github.com/nmww)；已上线的产品在 [作品集](index.md)，自研技能包在 [技能作品](../skills.md)。
 </p>
