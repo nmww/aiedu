@@ -2,6 +2,9 @@
 
 工程能力的另一种证明方式：**拿证说明我系统学过，做出来说明我真的会用。** 下面这些认证都对应着我实际在用的技术栈，不是考完就丢的证书。
 
+!!! note "关于证书图片"
+    为保护证书原件与个人信息，此处仅展示**低分辨率缩略图**——够辨认认证类别、颁发机构与持证人，证书编号、有效期等细节不作公开。如需核验原件，欢迎直接联系我。
+
 <div class="ad-stats">
 <div class="ad-stat"><span class="ad-stat__num">4</span><span class="ad-stat__label">阿里云专项技能认证</span></div>
 <div class="ad-stat"><span class="ad-stat__num">6</span><span class="ad-stat__label">训练营结营证书</span></div>

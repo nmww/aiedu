@@ -148,8 +148,8 @@
 /* ---------- 证书墙 ---------- */
 .ad-certs {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(13rem, 1fr));
-  gap: 0.9rem;
+  grid-template-columns: repeat(auto-fill, minmax(10.5rem, 1fr));
+  gap: 0.8rem;
   margin: 1rem 0 1.6rem;
 }
 
