@@ -1,0 +1,100 @@
+site_name: 张维 · AI 教育应用作品集
+site_description: 教育科技 · AI 应用工程 · K12 课程设计 —— 个人能力与项目作品索引
+site_author: 张维
+site_url: https://aiedu.readthedocs.io/zh-cn/latest/
+
+repo_url: https://github.com/nmww/aiedu
+repo_name: nmww/aiedu
+edit_uri: edit/main/docs/
+
+copyright: Copyright &copy; 2026 张维 · 本站随项目进展持续更新
+
+theme:
+  name: material
+  language: zh
+  icon:
+    logo: material/cube-outline
+    repo: fontawesome/brands/github
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/weather-night
+        name: 切换到深色模式
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/weather-sunny
+        name: 切换到浅色模式
+  font:
+    text: Noto Sans SC
+    code: JetBrains Mono
+  features:
+    - navigation.tabs
+    - navigation.top
+    - navigation.indexes
+    - navigation.footer
+    - navigation.tracking
+    - search.suggest
+    - search.highlight
+    - search.share
+    - content.code.copy
+    - content.tabs.link
+    - toc.follow
+
+extra_css:
+  - stylesheets/extra.css
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - md_in_html
+  - tables
+  - footnotes
+  - def_list
+  - toc:
+      permalink: true
+      toc_depth: 2
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.caret
+  - pymdownx.mark
+  - pymdownx.tilde
+
+plugins:
+  - search:
+      lang:
+        - zh
+        - en
+
+nav:
+  - 首页: index.md
+  - 关于我: about.md
+  - 能力清单: capabilities.md
+  - 作品集:
+      - works/index.md
+      - QuickClass 智能体学习平台: works/quickclass.md
+      - QuickForm 表单数据回收: works/quickform.md
+      - QuickEmbed 向量化服务: works/quickembed.md
+      - AI Town 小镇: works/ai-town.md
+      - 画中学 · 手绘白板: works/huaxuezhong.md
+  - 技术栈: stack.md
+  - 更新记录: changelog.md
+
+extra:
+  generator: false
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/nmww
+      name: GitHub @nmww
+    - icon: fontawesome/solid/cube
+      link: https://modelscope.cn/organization/modeai
+      name: 魔搭社区 @modeai
+  analytics:
+    provider: custom
