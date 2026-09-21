@@ -96,5 +96,3 @@ extra:
     - icon: fontawesome/solid/cube
       link: https://modelscope.cn/organization/modeai
       name: 魔搭社区 @modeai
-  analytics:
-    provider: custom
